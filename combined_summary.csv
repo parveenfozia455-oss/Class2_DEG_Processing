@@ -1,0 +1,5 @@
+Classification,Count,Source
+Not Significant,22283,DEGs_Data_1.csv
+Downregulated,1383,DEGs_Data_2.csv
+Not Significant,52622,DEGs_Data_2.csv
+Upregulated,670,DEGs_Data_2.csv
